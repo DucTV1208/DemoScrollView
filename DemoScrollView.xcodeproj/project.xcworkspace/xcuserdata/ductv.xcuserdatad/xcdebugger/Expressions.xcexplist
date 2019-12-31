@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ScrollViewFrameViewController.autoPageControl():ScrollViewFrameViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pageControl.currentPage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ScrollViewFrameViewController.scrollViewDidScroll(_:):ScrollViewFrameViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "view.bounds.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
